@@ -27,7 +27,9 @@ Sistem ini hadir sebagai solusi teknis untuk menangani kekacauan trafik digital 
 * **Informasi Real-Time:** Memberikan transparansi status kepada pengguna lewat fungsi `peek` (melihat urutan terdepan) dan `display` (melihat seluruh daftar tunggu).
 ## Landasan Teori
 ### Struktur data
-Struktur data merupakan tata cara penyimpanan, pengorganisasian, dan pengaturan data di dalam memori komputer agar dapat diakses dan dimodifikasi secara efisien. Menurut Sitorus (2015) dalam bukunya Algoritma dan Pemrograman, pemilihan struktur data yang tepat sangat krusial karena memengaruhi performa algoritma dalam menyelesaikan masalah komputasi. Tanpa struktur data yang terorganisir, pengolahan data dalam skala besar akan memakan waktu proses dan konsumsi memori yang tidak optimal.
+Struktur data adalah cara penyimpanan, pengorganisasian, dan pengaturan
+data di dalam media penyimpanan komputer sehingga data tersebut dapat
+digunakan secara efisien. *Aho, Hopcroft, Ullman, 1987,Data Structures and Algorithms,Prentice Hall*
 #### konsep queue / stack
 Dalam konsep penyimpanan linear, terdapat dua model utama yaitu Queue (antrean) dan Stack (tumpukan). Sjukani (2014) menjelaskan bahwa Queue adalah sekumpulan data yang penambahan elemennya dilakukan di satu ujung (rear) dan penghapusannya di ujung lain (front). Sementara itu, Stack diibaratkan sebagai tumpukan piring di mana penambahan dan penghapusan data hanya terjadi pada satu ujung yang sama (top). Perbedaan mendasar ini menentukan skenario penggunaan keduanya dalam aplikasi perangkat lunak.
 #### konsep FIFO / LIFO
