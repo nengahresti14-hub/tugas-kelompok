@@ -40,7 +40,7 @@ Implementasi Queue maupun Stack dapat dilakukan menggunakan dua media utama, yai
 ### 🖼️ Flowchart Logika Program
 
 ```text
-       [ START ]
+              [ START ]
            |
     [ INPUT Nama User ]
            |
@@ -61,7 +61,6 @@ Implementasi Queue maupun Stack dapat dilakukan menggunakan dua media utama, yai
     [ OUTPUT: Tiket Terbit ]
            |
         [ END ]
-```
 ## 🏁 Kesimpulan
 
 Berdasarkan hasil implementasi sistem **War Ticket**, dapat disimpulkan bahwa:
