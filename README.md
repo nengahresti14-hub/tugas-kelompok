@@ -1,6 +1,12 @@
 # 🎟️ Sistem Simulasi Antrian Tiket Konser (War Ticket)
 > Implementasi Struktur Data **Queue** berbasis **Array** menggunakan bahasa Python.
 
+## Nama Kelompok
+### 1. I Gede Agus Gunawan
+### 2. TEODORUS A. MADUN
+### 3. YOHANES ALGIANTARA
+
+
 
 ## Deskripsi Proyek
 Proyek ini adalah simulasi sistem *Waiting Room* digital yang sering digunakan pada platform penjualan tiket konser besar. Program ini menerapkan prinsip **FIFO (First-In-First-Out)** untuk mengelola lonjakan trafik pengguna secara teratur, adil, dan efisien menggunakan struktur data Array.
