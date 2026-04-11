@@ -2,9 +2,9 @@
 > Implementasi Struktur Data **Queue** berbasis **Array** menggunakan bahasa Python.
 
 ## Nama Kelompok
-### 1. I Gede Agus Gunawan
-### 2. TEODORUS A. MADUN
-### 3. YOHANES ALGIANTARA
+ 1. I Gede Agus Gunawan
+ 2. TEODORUS A. MADUN
+3. YOHANES ALGIANTARA
 
 
 
