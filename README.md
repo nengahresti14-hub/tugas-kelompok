@@ -42,12 +42,12 @@ Implementasi Queue maupun Stack dapat dilakukan menggunakan dua media utama, yai
 
 ### Alur Implementasi (Input -> Proses -> Output)
 
-1. **Input:** Nama pembeli dimasukkan melalui metode `enqueue(nama_user)`.
-2. **Proses:** - **Validasi:** Sistem mengecek kapasitas array `self.antrian`.
+1. **Input:** Nama pembeli dimasukkan melalui metode enqueue(nama_user).
+2. **Proses:** - **Validasi:** Sistem mengecek kapasitas array self.antrian.
    - **Antrean:** Jika masih ada slot, nama disimpan di urutan terakhir.
-   - **FIFO:** Saat `dequeue()` dipanggil, data pada `index 0` diproses dan dihapus, sehingga data lainnya maju ke depan.
+   - **FIFO:** Saat dequeue() dipanggil, data pada index 0 diproses dan dihapus, sehingga data lainnya maju ke depan.
 3. **Output:** - Notifikasi keberhasilan/kegagalan masuk antrian.
-   - Visualisasi daftar tunggu (`display`).
+   - Visualisasi daftar tunggu (display).
    - Konfirmasi tiket terbit untuk user yang diproses.
 
       
