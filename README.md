@@ -37,33 +37,12 @@ Metode akses data pada kedua struktur tersebut dikenal dengan prinsip FIFO (Firs
 #### implementasi menggunakan array atau linked list
 Implementasi Queue maupun Stack dapat dilakukan menggunakan dua media utama, yaitu Array atau Linked List. Menurut Karumanchi (2016) dalam Data Structures and Algorithms Made Easy, implementasi menggunakan Array lebih sederhana karena data disimpan pada blok memori yang berurutan (statis). Namun, jika kapasitas data bersifat dinamis atau tidak menentu, penggunaan Linked List lebih disarankan karena setiap elemen (node) menyimpan alamat memori elemen berikutnya, sehingga lebih fleksibel dalam alokasi memori meskipun logikanya lebih kompleks dibanding Array.
 
-### 🖼️ Flowchart Logika Program
+###  Flowchart Logika Program
 
-```text
-              [ START ]
-           |
-    [ INPUT Nama User ]
-           |
-    { Kuota Penuh? } ---- YA ----> [ Pesan: Antrian Penuh ]
-           |                          |
-         TIDAK                        |
-           |                          |
-    [ ENQUEUE: append ]               |
-           |                          |
-    [ TAMPILKAN Posisi ]              |
-           |                          |
-    { PROSES Dequeue? }               |
-           |                          |
-          YA                          |
-           |                          |
-    [ POP(0): Ambil Depan ] <---------+
-           |
-    [ OUTPUT: Tiket Terbit ]
-           |
-        [ END ]
 
-```
-## 🏁 Kesimpulan
+      
+
+## Kesimpulan
 
 Berdasarkan hasil implementasi sistem **War Ticket**, dapat disimpulkan bahwa:
 
